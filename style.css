@@ -10,6 +10,7 @@ selector {
 p { /*select all <p> */
   font-size: 1em; /*16px or pt 100% or ems */
   line-height: 1.5em; 
+  color: #00FF00;
 }
 
 figcaption{
